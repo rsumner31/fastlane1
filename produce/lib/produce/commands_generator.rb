@@ -1,4 +1,5 @@
 require 'commander'
+require 'fastlane/version'
 
 require 'fastlane/version'
 require 'fastlane_core/configuration/config_item'

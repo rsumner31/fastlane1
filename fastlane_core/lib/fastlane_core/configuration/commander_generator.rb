@@ -1,4 +1,5 @@
 require 'commander'
+require 'fastlane/version'
 
 require_relative '../module'
 require_relative '../ui/ui'
